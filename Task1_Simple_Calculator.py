@@ -73,4 +73,4 @@ def calculator():
             print(f"\nResult: {num1} {operator} {num2} = {display}")
 
 if __name__ == "__main__":
-    calculator() ye code hai
+    calculator()
